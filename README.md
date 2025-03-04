@@ -13,8 +13,6 @@ Este é um projeto básico de Cadastro de Usuário desenvolvido com o framework 
 
 - Cadastro de novos usuários ✅
 - Listagem de usuários 📋
-- Edição de dados dos usuários ✏️
-- Exclusão de usuários ❌
 
 ## 🎯 Como Executar o Projeto
 
