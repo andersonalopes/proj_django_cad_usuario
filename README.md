@@ -7,7 +7,7 @@ Este é um projeto básico de Cadastro de Usuário desenvolvido com o framework 
 - **Django** 🐍 - Framework web para desenvolvimento em Python.
 - **VSCode** 🖥️ - Editor de código utilizado para desenvolver o projeto.
 - **Banco de Dados SQLite** 🗂️ - Banco de dados leve e embutido.
-- **HTML/CSS** 🎨 - Utilizado para a interface das páginas web.
+- **HTML/CSS/BOOTSTRAP** 🎨 - Utilizado para a interface das páginas web.
 
 ## 🚀 Funcionalidades
 
